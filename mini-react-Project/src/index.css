@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 10px;
+}
+/* 
+.App {
+  border-radius: 10px;
+  padding: 1rem;
+  width: fit-content;
+  background: #ffffff;
+  color: rgb(47, 83, 83);
+  box-shadow: 10px 10px 200px 9px rgb(139, 139, 139);
+}
+
+.parent {
+  display: flex;
+  justify-content: center;
+  
+  flex-wrap: wrap;
+  gap: 30px;
+} */
