@@ -7,7 +7,7 @@ const SearchBox = ({ updatedInfo }) => {
   const [error, setError] = useState("");
 
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-  const API_KEY = "e58f7834ee9abdbf2cf41cc0b5ab4728";
+  const API_KEY = "";
 
   const WeatherData = async () => {
     try {
