@@ -7,6 +7,8 @@ const InfoBox = ({ info }) => {
   const HOT_URL =
     "https://images.unsplash.com/photo-1524594081293-190a2fe0baae?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90JTIwd2VhdGhlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600";
 
+  console.log("e58f7834ee9abdbf2cf41cc0b5ab4728");
+  
   const RAI_URL =
     "https://plus.unsplash.com/premium_photo-1664303017917-71ebeb42343d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJhaW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600";
 
